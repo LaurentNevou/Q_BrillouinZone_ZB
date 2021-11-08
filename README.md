@@ -1,5 +1,5 @@
 # Q_BrillouinZone_ZB
-plot the Brillouin zone of the Zinc Blende lattice
+plot the Brillouin zone of the Zinc Blende lattice in 3D
 
 
 ![ZB](https://user-images.githubusercontent.com/35040499/140711296-0bcea485-9e5c-4c46-80c2-7869810297bc.PNG)
